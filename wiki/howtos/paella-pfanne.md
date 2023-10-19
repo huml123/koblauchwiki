@@ -1,6 +1,6 @@
 # Paella Brenner
 
-<img src="../images/paella-pan.png" style="max-width:300px"/>
+<!-- <img src="../images/paella-pan.png" style="max-width:300px"/> -->
 
 ### Paella Brenner besonderheiten
 
@@ -8,6 +8,7 @@ Der Paella Brenner bietet ein paar Besonderheiten die beachtet werden wollen. De
 Der Brenner hat ein dreibeiniges Gestell. Dadurch sollte es gut möglich sein, wenn ein fester Untergrund gegebne ist, durch drehen die Pfanne Gerade aufzustellen.
 
 <!-- Bild von Brenner mit 3 Ringen, Draufsicht -->
+<img src="../images/3 ring Brenner top.png" style="max-width: 300px"/>
 
 ### Anmachen des Brenners
 
