@@ -13,7 +13,7 @@
 * [How to SG-Zelt aufbauen und abbauen]()
 * [How-to Paellapfanne anmachen](wiki/howtos/paella-pfanne)
 * [How-to Spülstraße](wiki/spuelstrasse)
-* [How-to Paella Brenner](wiki/howtos/paella-pfanne)
+* [How-to Paella Brenner](wiki/howtos/paella-pfanne.md)
 
 Siehe auch [Rezepte](wiki/Rezepte).
 
