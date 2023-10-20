@@ -43,4 +43,8 @@ Siehe auch [Rezepte](wiki/Rezepte).
 * [Allergien und Unvertraeglichkeiten](wiki/Allergien%20und%20Unvertraeglichkeiten)
 * [Hygiene in der Küche](wiki/Hygiene.md)
 
+***
+### Mitgestaltung des Wiki
+
+Wenn du mit an diesem Wiki arbeiten möchtest, dann schreibe gerne Ideen oder Beiträge und Änderungswünsche an *knoblauch-fahne@riseup.net*.
 
