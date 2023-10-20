@@ -10,7 +10,7 @@ Schmutzwasser werden je nach dem Verschmutzungsgrad in verschiedene Kategorien e
 
 Der Fettabscheider filtert Fett- und Ölreste sowie Feststoffe aus unserem Abwasser, bevor es in die Kanalisation geleitet werden kann. Die Öl- und Fettreste sammeln sich dabei in der letzten Kammer des Fettabscheiders, wärend sich die Feststoffe am Boden im vorderen Teil absetzen und ein schlammiges Sediment bilden.
 
-![](images/fettabscheider.webp)
+![](images/fettabscheider.png)
 
 ## Ablassen und Reinigen
 Öle und Fette sammeln sich oben an der Wasseroberfläche. Durch Aufdrehen des Ablaufs am Boden des Fettabscheiders (das rote Rädchen) kann das vom Öl getrennte Wasser abgelassen werden (alternativ kann man es auch abpumpen). Das Wasser kann einfach in die Kanalisation gelassen werden.
