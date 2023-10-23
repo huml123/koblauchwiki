@@ -9,7 +9,7 @@
 * [Reis kochen für > 100 Personen](wiki/howtos/reis)
 * [How-to make Porridge](wiki/howtos/porridge)
 * [How-to make coffee](wiki/howtos/coffee)
-* [How-to Fettabscheider reinigen](wiki/Fettabscheider#Ablassen und Reinigen)
+* [How-to Fettabscheider reinigen](wiki/Abwasser)
 * [How to SG-Zelt aufbauen und abbauen]()
 * [How-to Paellapfanne anmachen](wiki/howtos/paella-pfanne)
 * [How-to Spülstraße](wiki/spuelstrasse)
