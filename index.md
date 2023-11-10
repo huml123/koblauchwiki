@@ -15,8 +15,6 @@
 * [How-to Spülstraße](wiki/spuelstrasse)
 * [How-to Paella Brenner](wiki/howtos/paella-pfanne)
 
-Siehe auch [Rezepte](wiki/Rezepte).
-
 ### Tutorials
 
 *Tutorials are **lessons** that take the reader by the hand through a series of steps to complete a project of some kind. Tutorials are **learning-oriented**.*
@@ -43,8 +41,12 @@ Siehe auch [Rezepte](wiki/Rezepte).
 * [Allergien und Unvertraeglichkeiten](wiki/Allergien%20und%20Unvertraeglichkeiten)
 * [Hygiene in der Küche](wiki/Hygiene.md)
 
-***
-### Mitgestaltung des Wiki
+### Recipes and calculation
 
-Wenn du mit an diesem Wiki arbeiten möchtest, dann schreibe gerne Ideen oder Beiträge und Änderungswünsche an *knoblauch-fahne@riseup.net*.
+* [Rezepte](wiki/Rezepte).
+
+***
+### Participation in the wiki
+
+*If you would like to participate in this wiki, please write ideas, contributions, and requests for changes to **knoblauch-fahne@riseup.net**.*
 
