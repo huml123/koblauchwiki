@@ -39,7 +39,7 @@
 *Explanation is **discussion** that clarifies and illuminates a particular topic. Explanation is **understanding-oriented**.*
 
 * [Allergien und Unvertraeglichkeiten](wiki/Allergien%20und%20Unvertraeglichkeiten)
-* [Hygiene in der Küche](wiki/Hygiene.md)
+* [Hygiene in der Küche](wiki/Hygiene)
 
 ### Recipes and calculation
 
