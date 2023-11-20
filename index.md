@@ -22,7 +22,7 @@
 * [How to calculate amounts to cook](wiki/Mengenkalkulation)
 * [Eine Einführung in die Kochweise von Le Sabot](wiki/resources/saboschuere_GE_may2010.pdf) (PDF)
 * [The Anarchist Teapot Mobile Kitchen’s Guide to Feeding the Masses](wiki/resources/guide-to-mass-catering.pdf) ([andere Version davon](wiki/resources/anarchist-teapot-mobile-kitchen-the-anarchist-teapot-mobile-kitchen-s-guide-to-feeding-the-mass.pdf)) (PDF)
-* Zusammen für 50 Leute kochen ? Die SoKü-Broschüre von Food4Action ist das ultimative Handbuch für alle, die ihre Küche selbst in die Hand nehmen wollen. [Fettnapf: Solidarische und Selbstorganisierte Küche – Handbuch zum Download](wiki/resources/Fettnapf2016.pdf).
+* Zusammen für 50 Leute kochen? [Fettnapf: Solidarische und Selbstorganisierte Küche – Handbuch zum Download](wiki/resources/Fettnapf2016.pdf).
 
 ### Reference Guides
 
