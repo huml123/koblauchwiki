@@ -29,6 +29,6 @@ Ungefähr 125g pro Person. Siehe [Mengenkalkulation](/wiki/Mengenkalkulation).
 
 ## Energie sparen
 
-Du kannst die Nudeln vorab in Wasser einweichen um die Kochzeit zu reduzieren. 2 Stunden reichen dafür aus, über Nacht geht aber auch.
+Du kannst die Nudeln vorab in (kaltem) Wasser einweichen um die Kochzeit zu reduzieren. 2 Stunden reichen dafür aus, über Nacht geht aber auch.
 
 Du kannst das heiße Nudelwasser für mehrere Fuhren Nudeln verwenden.
