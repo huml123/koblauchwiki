@@ -8,4 +8,4 @@
 * [Veganer Pizzakäse](https://wechange.de/group/knoblauchfahne-2/document/veganer-pizzakaese/)
 
 ### Backen
-* [Yufka](wiki/Yufka)
+* [Yufka](Yufka)
