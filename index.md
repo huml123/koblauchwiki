@@ -11,7 +11,6 @@
 * [How-to make coffee](wiki/howtos/coffee)
 * [How-to Fettabscheider reinigen](wiki/Abwasser)
 * [How to SG-Zelt aufbauen und abbauen]()
-* [How-to Paellapfanne anmachen](wiki/howtos/paella-pfanne)
 * [How-to Spülstraße](wiki/spuelstrasse)
 * [How-to Paella Brenner](wiki/howtos/paella-pfanne)
 
