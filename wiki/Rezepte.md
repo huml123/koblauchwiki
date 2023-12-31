@@ -18,6 +18,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 * [Yufka](Yufka)
 * [Beignets](Beignets)
+* [Arme Ritter](Arme_Ritter)
 
 ### Rezepte anderer Gruppen
 
