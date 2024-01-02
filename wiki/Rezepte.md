@@ -9,7 +9,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Soja Gyros](Soya_Gyros)
 * [Bratreis mit Mandelstiften]()
 * [Goulasch]()
-* [Ratatouille]()
+* [Ratatouille](Ratatouille)
 * [Chili con Verduras]()
 * [Verschiedene Pesto]()
 * [Weiße Bohnen Eintopf]()
