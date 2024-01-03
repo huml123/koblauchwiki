@@ -39,6 +39,7 @@
 
 * [Allergien und Unvertraeglichkeiten](wiki/Allergien%20und%20Unvertraeglichkeiten)
 * [Hygiene in der Küche](wiki/Hygiene)
+* [Brandschutz](wiki/Brandschutz)
 
 ### Recipes and calculation
 
