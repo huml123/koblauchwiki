@@ -4,7 +4,7 @@ Das Thema Brandschutz ist besonders wichtig wenn Menschen gemeinsam in einer mit
 
 Ein Brand hat drei Voraussetzungen:
 
-- Treibstoff
+- Brennstoff
 - Sauerstoff
 - Hitze
 
@@ -21,7 +21,7 @@ Drohen Feuer außer Kontrolle zu geraten empfiehlt sich ein Feuerlöscher.
 
 Feuerlöscher werden üblicherweise in folgende Brandklassen unterteilt:
 
-- A: feste, nicht schmelzende Stoffe wie Holz aber auch Litium-Ionen Akkus
+- A: feste, nicht schmelzende Stoffe wie Holz
 - B: flüssige, schmelzende Stoffe wie Kunststoff oder Harze
 - C: Gase, wobei nur gelöscht werden darf wenn die Gas zufur gestoppt wurde
 - D: Metalle wie Aluminum oder Magnesium (hier sollte besonders darauf geachtet werden keinen anderen Löscher als den D Löscher zu verwenden)
@@ -45,4 +45,4 @@ Die Verwendung der Falschen Feuerlöscher kann verschiedene Reaktionen hervorruf
 
 ### Verbrenungen
 
-Verbrennungen können immer wieder vorkommen in der Küche. Dabei sollte schnellst möglich für Kühlung durch laufendes Wasser gesorgt werden. Auch eine Brandsalbe 
+Verbrennungen können immer wieder vorkommen in der Küche. Dabei sollte schnellst möglich für Kühlung durch laufendes Wasser gesorgt werden. Das Wasser sollte dabei am besten Handwarm sein. Auch eine Brandsalbe ist zu empfehlen.
