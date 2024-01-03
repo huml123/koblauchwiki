@@ -4,6 +4,13 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 <!--- ![](images/KF_Kelle.png) --->
 
+### Frühstück
+* [Porridge]()
+
+### Aufstriche
+
+### Hauptgerichte
+
 * [Falafel](Falafel)
 * [Cashew Cammenbert](Cashew_Cammenbert)
 * [Soja Gyros](Soya_Gyros)
