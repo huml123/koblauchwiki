@@ -1,5 +1,7 @@
 # Gastronorm Kunde
 
+GNs sind das Rückgrat jeder größeren Küche! :)
+
 |Bezeichnung|Länge|Breite|200 mm|150 mm|100 mm|65 mm|40 mm|20 mm|
 |2/1|650|530|57,7 l|43,4 l|28,9 l|18,4 l|11 l||
 |1/1|325|530|28 l|21 l|14 l|9 l|5 l|2,5 l|
