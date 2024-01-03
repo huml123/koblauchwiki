@@ -5,7 +5,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 <!--- ![](images/KF_Kelle.png) --->
 
 * [Falafel](Falafel)
-* [Cashewbär](Cashewbär)
+* [Cashew Cammenbert]Cashew_Cammenbert)
 * [Soja Gyros](Soya_Gyros)
 * [Bratreis mit Mandelstiften]()
 * [Goulasch]()
