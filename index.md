@@ -40,6 +40,7 @@
 * [Allergien und Unvertraeglichkeiten](wiki/Allergien%20und%20Unvertraeglichkeiten)
 * [Hygiene in der Küche](wiki/Hygiene)
 * [Brandschutz](wiki/Brandschutz)
+* [GN](wiki/GN_1mal1)
 
 ### Recipes and calculation
 
