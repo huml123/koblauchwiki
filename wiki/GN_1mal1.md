@@ -1,14 +1,21 @@
 # Gastronorm Kunde
 
-GNs sind das Rückgrat jeder größeren Küche! :)
+GNs (Gastronorm Behälter) sind das Rückgrat jeder größeren Küche und häufig werden Mengen nur noch in GNs angegeben. Aber manchmal ist nicht ganz klar, was ist damit eigentlich gemeint. Hier ist eine kurze Zusammenfassung der unterschiedlichem Arten von GNs die im Umlauf sind.
 
-|Bezeichnung|Länge|Breite|200 mm|150 mm|100 mm|65 mm|40 mm|20 mm|
-|2/1|650|530|57,7 l|43,4 l|28,9 l|18,4 l|11 l||
-|1/1|325|530|28 l|21 l|14 l|9 l|5 l|2,5 l|
+<!---
+Das Schema funktioniert, ähnlich wie DIN Formate.
+(Bild vom Schema einfügen)
+--->
+
+Die Zahlen in der ersten Zeile beziehen sich auf die Tiefe der GN, die Zahlen darunter auf das Volumen in Litern.
+
+|Bezeichnung|Länge|Breite|200|150|100|65|40|20|
+|2/1|650|530|57,7|43,4|28,9|18,4|11||
+|1/1|325|530|28|21|14|9|5|2,5|
 |2/4|162|530|||||||
 |2/3|325|354|||||||
-|1/2|325|265|12.5 l|9.5 l|6.5 l|4 l|2 l|1 l|
-|1/3|325|176|7.8 l|5.7 l|4 l|2.5 l|1.5 l|0.8 l|
-|1/4|163|265|5.5 l|4 l|2.8 l|1.8 l|2 l|1 l|
-|1/6|162|176|3.4 l|2.4 l|1.6 l|1 l|||
-|1/9|108|176||1.5 l|1 l|0.6 l|||
+|1/2|325|265|12.5|9.5|6.5|4|2|1|
+|1/3|325|176|7.8|5.7|4|2.5|1.5|0.8|
+|1/4|163|265|5.5|4|2.8|1.8|2|1|
+|1/6|162|176|3.4|2.4|1.6|1|||
+|1/9|108|176||1.5|1|0.6|||
