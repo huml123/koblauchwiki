@@ -10,8 +10,17 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 ### Aufstriche
 
+* [Tomatenbutter]()
+* [Karotten Aufstrich]()
+* [Kürbisaufstrich]()
+* [Hummus]()
+* [Schokoaufstrich]()
+* [Aprikosen Curry]()
+
 ### Hauptgerichte
 
+* [Borschtsch]()
+* [Kürbissuppe]()
 * [Falafel](Falafel)
 * [Cashew Cammenbert](Cashew_Cammenbert)
 * [Soja Gyros](Soya_Gyros)
@@ -21,12 +30,34 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Chili con Verduras]()
 * [Verschiedene Pesto]()
 * [Weiße Bohnen Eintopf]()
+* [Kartoffelsuppe]()
+* [Kartoffelstampf mit gebratenem Kohl]()
+* [Tofu Schnitzel]()
+* [Paellia]()
+* [Kichererbsen Curry]()
+* [Linsen Daal]()
+* [Karotteneintopf]()
+* [Röstkürbis]()
 
 ### Backen
 
 * [Yufka](Yufka)
 * [Beignets](Beignets)
 * [Arme Ritter](Arme_Ritter)
+
+### Saucen
+
+* [Ketchup]()
+* [Bechamel Käsesauce]()
+* [Tahin Zitronen Dip]()
+* [Ajoli]()
+* [Salat Saucen]()
+* [Bratensauce]()
+* [Chilisauce]()
+* [Sour Cream]()
+* [Remoulade]()
+* [Majo]()
+* [Schokosauce]()
 
 ### Rezepte anderer Gruppen
 
