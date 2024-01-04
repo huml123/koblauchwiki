@@ -18,7 +18,7 @@ Dann weren diese im Topf Scharf angebraten, bis diese Farbe bekommen und dann wi
 - 1kg Rote Paprika
 
 Ist auch dieses ein bisschen angebraten,geben wir nochmal eine gute Menge Tomatenmark und vor allem Paprikapulver dazu, rühren unter und lassen das kurz anbraten. Danach löschen wir ab. Wollen wir keinen Wein verwenden kann auch mit Essig, Sojasauce oder sogar Zitronensaft abgelöscht werden. Das kann auch in mehreren Intervallen passieren, bis das ganze deutlich feuchter und der Boden scheinbar frei gekrazt ist.
-Dann wird ca. 1 l Brühe, zusammen mit Majoran, Knoblauch, Salz und Pfeffer dazu gegeben und erstmal köcheln gelassen bis die gewünschte Konsistenz erreicht ist.
+Dann wird ca. 1 l Brühe, zusammen mit Majoran, Knoblauch, Salz und Pfeffer sowie ausreichend Kümmel dazu gegeben und erstmal köcheln gelassen bis die gewünschte Konsistenz erreicht ist.
 
 Dazu passen natürlich Kartoffeln, Nudeln und zur Not auch Reis.
 
