@@ -1,21 +1,40 @@
 # Gastronorm Kunde
 
-GNs (Gastronorm Behälter) sind das Rückgrat jeder größeren Küche und häufig werden Mengen nur noch in GNs angegeben. Aber manchmal ist nicht ganz klar, was ist damit eigentlich gemeint. Hier ist eine kurze Zusammenfassung der unterschiedlichem Arten von GNs die im Umlauf sind.
+GNs (Gastronorm Behälter) sind das Rückgrat jeder größeren Küche und häufig werden Mengen nur noch in GNs angegeben. Aber manchmal ist nicht ganz klar, was ist damit eigentlich gemeint.
 
-<!---
-Das Schema funktioniert, ähnlich wie DIN Formate.
-(Bild vom Schema einfügen)
---->
+Bei "GNs" handelt es sich um diese Edelstahlbehälter:
+![In GNs serviertes Salatbuffet](images/Salad_bar.JPG)
 
-Die Zahlen in der ersten Zeile beziehen sich auf die Tiefe der GN, die Zahlen darunter auf das Volumen in Litern.
+Auch der Fenchel liegt in einer GN:
+![Ein Fenchel in einer GN](images/fenchel_in_gn.jpg)
 
-|Bezeichnung|Länge|Breite|200|150|100|65|40|20|
-|2/1|650|530|57,7|43,4|28,9|18,4|11||
-|1/1|325|530|28|21|14|9|5|2,5|
-|2/4|162|530|||||||
-|2/3|325|354|||||||
-|1/2|325|265|12.5|9.5|6.5|4|2|1|
-|1/3|325|176|7.8|5.7|4|2.5|1.5|0.8|
-|1/4|163|265|5.5|4|2.8|1.8|2|1|
-|1/6|162|176|3.4|2.4|1.6|1|||
-|1/9|108|176||1.5|1|0.6|||
+## Größen
+
+Wie der Name schon vermuten lässt sind die Größen von GNs normiert. Die "1⁄1 GN" ist die Referenzgröße mit einer Grundfläche von 325 mm × 530 mm. Die 2⁄3-GN hat eine zweidrittel so große Fläche und die 1⁄9-GN entsprechend einneuntel der Fläche. Das Prinzip wird klar.
+
+Jede GN gibt es in unterschiedlichen Tiefen. Die Kapazität einer GN ist also letzendlich durch die Typbezeichnung (z.B 1⁄9-GN) und deren Tiefe definiert (z.B. 150mm). Um die Kapazität präzise anzugeben sind GNs daher nach diesem Schema benannt:
+
+```
+  GN 1/9 x 150
+      ▲     ▲
+      │     └──── Tiefe (hier 150mm)
+      │
+   Fläche
+```
+
+
+
+Das Bild macht das verständlicher:
+![](images/GN_sizes.png)
+
+## Kapazitäten
+
+
+| Typ     | Grundfläche (Länge x Breite in Millimetern) | Tiefe (in Millimeter) | Kapazität in Liter | Kapazität in kg | Ungefähre Rationen 🍛 |
+|--------------|---------------------------------------|-----------------------------|--------------------|-----------------|--------------------|
+| GN 1/1 x 200 | 530 x 325                             | 200                         | 29                 | 20.3            | 116                |
+| GN 1/1 x 150 | 530 x 325                             | 150                         | 21                 | 14.7            | 84                 |
+| GN 1/1 x 100 | 530 x 325                             | 100                         | 14                 | 9.8             | 56                 |
+| GN 1/1 x 65  | 530 x 325                             | 65                          | 9                  | 6.3             | 36                 |
+| GN 1/1 x 40  | 530 x 325                             | 40                          | 6                  | 4.3             | 24                 |
+| GN 1/1 x 20  | 530 x 325                             | 20                          | 3                  | 2.1             | 12                 |
