@@ -19,7 +19,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 ### Hauptgerichte
 
-* [Borschtsch]()
+* [Borschtsch](Borschtsch)
 * [Kürbissuppe]()
 * [Falafel](Falafel)
 * [Cashew Cammenbert](Cashew_Cammenbert)
