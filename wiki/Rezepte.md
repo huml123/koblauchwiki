@@ -45,6 +45,10 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Beignets](Beignets)
 * [Arme Ritter](Arme_Ritter)
 
+### Pizza
+
+* [Veganer Pizzakäse](/wiki/rezepte/pizzakaese)
+
 ### Saucen
 
 * [Ketchup]()
@@ -64,7 +68,5 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Rezepte von Food4Action](https://food4action.noblogs.org/rezepte/)
 * [Brotauftriche von Le Sabot](Aufstriche von Le Sabot)
 * [Suppen von Le Sabot](https://lesabot.org/?page_id=180)
-* [Veganer Pizzakäse](https://wechange.de/group/knoblauchfahne-2/document/veganer-pizzakaese/)
-
 
 Wenn du Rezepte oder Rezeptideen hast die gut auch in großen Mengen umgesetzt werden können, dann schick sie uns gerne via Mail unter knoblauch-fahne@riseup.net oder wenns sein muss auf Instagram.
