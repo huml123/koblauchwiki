@@ -1,0 +1,37 @@
+name: Anmeldung
+description: Füll bitte die folgende Anmeldung aus wenn du vor hast zum Sturktuwochende anfang April zu kommen!
+title: "[1]: "
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Schönm dass du dir die Zeit nimmst das Formular aus zu füllen!
+ 
+- type: input
+    id: contact
+    attributes:
+      label: Kontackt möglichkeit
+      description: Bitte lass uns eine Mail Adresse oder Handynummer für mögliche Rückfragen da!
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+    id: contact
+    attributes:
+    placeholder: 0123 01234567
+
+  - type: dropdown
+    label: Welche Bedürfnisse hast du an die Übernachtung?
+    id: sleep
+    options:
+      - Isomatte und Schlafsack sind voll ok
+      - Ich habe ein Bett in Augsburg oder kümmere mich selbst
+      - Ich brauche eine Matraze
+    required: true
+
+  - type: textarea
+    id: ideas
+    label: Welche Ideen hast du für das Treffen, oder was ist dir besonders Wichtig?
+    placeholder:
+    required: false
