@@ -14,10 +14,11 @@ Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfra
 - Wie viele Leute?
 - Was bezweckt die Aktion?
 - Gib es Wasser, Abwasser, Strom und Toiletten?
+- Schlafsituation
+- Gibt es eine Küche vor Ort oder sollten wir eigenes Equipment und eine Feldküche mitbringen
 - Was genau braucht die Aktion von uns? Reicht es euch wenn wir Equipment zur Verfügung stellen und die Teilnehmenden organisieren die Küche selbst oder wärs gut wenn wir während der Aktion die Küche organisieren?
-- Können die Teilnehmenden in der Küche unterstützen oder müssen wir alles allein machen?
+- Ist geplant dass die Teilnehmenden in der Küche beim Kochen und Abwasch mithelfen? In welchem Umfang?
 - Finanzen
-
 
 Wenn wir das wissen sollten wir folgendes klären:
 
@@ -27,12 +28,12 @@ Wenn wir das wissen sollten wir folgendes klären:
 
 Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte Gedanken zu machen:
 
-- [ ] Calculation (siehe [Mengenkalkulation](Mengenkalkulation))
-- [ ] Was und wie viel muss vorab bestellt werden?
-- [ ] Gibt es Einkaufsmöglichkeiten vor Ort?
-- [ ] Logistics / Transport
-- [ ] Communication & Crewcare
-- [ ] Coordinations
+- Calculation (siehe [Mengenkalkulation](Mengenkalkulation))
+- Was und wie viel muss vorab bestellt werden?
+- Gibt es Einkaufsmöglichkeiten vor Ort?
+- Logistics / Transport
+- Communication & Crewcare
+- Coordinations
 
 ### Die Bestellung
 
@@ -43,7 +44,6 @@ Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte 
     Wer ist wann da?
     Plan machen
     Koordination festlegen
-
 
 ## In der Aktion
 
