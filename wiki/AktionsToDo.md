@@ -14,6 +14,7 @@ Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfra
 - Wie viele Leute?
 - Was bezweckt die Aktion?
 - Gib es Wasser, Abwasser, Strom und Toiletten?
+- Müllentsorgung
 - Schlafsituation
 - Gibt es eine Küche vor Ort oder sollten wir eigenes Equipment und eine Feldküche mitbringen
 - Was genau braucht die Aktion von uns? Reicht es euch wenn wir Equipment zur Verfügung stellen und die Teilnehmenden organisieren die Küche selbst oder wärs gut wenn wir während der Aktion die Küche organisieren?
