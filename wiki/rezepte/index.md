@@ -5,31 +5,30 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 <!--- ![](images/KF_Kelle.png) --->
 
 ### Frühstück
-* [Porridge]()
-* [Herzhaftes Reisfrühstück](Reisfrühstück)
-
+* [[Porridge]]
+* [[Reisfrühstück|Herzhaftes Frühstück]]
 ### Aufstriche
 
-* [Tomatenbutter]()
-* [Karotten Aufstrich]()
-* [Kürbisaufstrich]()
-* [Hummus]()
-* [Schokoaufstrich]()
-* [Aprikosen Curry]()
-
+* [[Tomatenbutter]]
+* [[Karrottenaufstrich]]
+* [[Kürbisaufstrich]]
+* [[Hoummous]]
+* [[Schokoaufstrich]]
+* [[Aprikosencurry]]
+* [[Aufstriche von Le Sabot]]
 ### Hauptgerichte
 
-* [Borschtsch](Borschtsch)
-* [Kürbissuppe]()
-* [Falafel](Falafel)
-* [Cashew Cammenbert](Cashew_Cammenbert)
-* [Soja Gyros](Soya_Gyros)
-* [Bratreis mit Mandelstiften](Bratreis)
-* [Goulasch](Goulasch)
-* [Ratatouille](Ratatouille)
-* [Chili con Verduras]()
-* [Verschiedene Pesto]()
-* [Weiße Bohnen Eintopf]()
+* [[Borschtsch]]
+* [[Kürbissuppe]]
+* [[Falafel]]
+* [[Cashew_Cammenbert]] / [[Cashewbär]]
+* [[Soja Gyros]]
+* [[Bratreis|Bratreis mit Mandelstiften]]
+* [[Goulasch]]
+* [[Ratatouille]]
+* Chili con Verduras
+* Verschiedene Pesto
+* Weiße Bohnen Eintopf
 * [Kartoffelsuppe]()
 * [Kartoffelstampf mit gebratenem Kohl]()
 * [Tofu Schnitzel]()
@@ -41,13 +40,13 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 ### Backen
 
-* [Yufka](Yufka)
-* [Beignets](Beignets)
-* [Arme Ritter](Arme_Ritter)
+* [[Yufka]]
+* [[Beignets]]
+* [[Arme_Ritter|Arme Ritter]]
 
 ### Pizza
 
-* [Veganer Pizzakäse](/wiki/rezepte/pizzakaese)
+* [[pizzakaese|Veganer Pizzakäse]]
 
 ### Saucen
 

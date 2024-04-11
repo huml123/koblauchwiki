@@ -1,6 +1,6 @@
 # Die Aktion - ein Ablauf
 
-Die "Aktion" ist mit der Kerninhalt der Mobilen KüFa. Dabei handelt es sich häufig um eine Veranstaltung, die nicht Monate im Voraus bekannt und an einem beliebigen Ort sein kann.
+Die "Aktion" ist mit der Kerninhalt der Mobilen KüFa. Dabei handelt es sich häufig um eine Veranstaltung, die nicht Monate im voraus bekannt und an einem beliebigen Ort sein kann.
 
 Aber es gibt dennoch Gemeinsamkeiten und Aufgaben die immer gleich oder zumindest ähnlich sind. Daher gibt es hier Checklisten, die das vorbereiten erleichtern sollen.
 
@@ -29,7 +29,7 @@ Wenn wir das wissen sollten wir folgendes klären:
 
 Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte Gedanken zu machen:
 
-- Calculation (siehe [Mengenkalkulation](Mengenkalkulation))
+- Calculation (siehe [[Mengenkalkulation]])
 - Was und wie viel muss vorab bestellt werden?
 - Gibt es Einkaufsmöglichkeiten vor Ort?
 - Logistics / Transport
@@ -74,7 +74,7 @@ Welche Schichten braucht es während der Aktion?
     Materialliste
     Koordination Festlegen
 
-Details und eine Checkliste zum Abbau findest du unter [Küchenabbauu](Kuechenabbau).
+Details und eine Checkliste zum Abbau findest du unter [[Küchenabbau]].
 
 ## Nach der Aktion
 

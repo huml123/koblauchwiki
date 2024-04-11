@@ -3,7 +3,7 @@ docs_dir: wiki
 theme:
     name: 'material'
     palette:
-
+    logo: logo.png
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default

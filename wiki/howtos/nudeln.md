@@ -25,7 +25,7 @@ Das gesalzene Wasser sollte wie Meerwasser schmecken. Bei 100L sind das etwa 10 
 
 ## Wie viele Nudeln?
 
-Ungefähr 125g pro Person. Siehe [Mengenkalkulation](/wiki/Mengenkalkulation).
+Ungefähr 125g pro Person. Siehe [[Mengenkalkulation]].
 
 ## Energie sparen
 
