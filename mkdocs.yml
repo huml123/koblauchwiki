@@ -2,8 +2,8 @@ site_name: Knoblauchwiki
 docs_dir: wiki
 theme:
     name: 'material'
+    logo: 'logo.png'
     palette:
-    logo: logo.png
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
