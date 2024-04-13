@@ -13,7 +13,7 @@ Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfra
 - Wo und wann?
 - Wie viele Leute?
 - Was bezweckt die Aktion?
-- Gib es Wasser, Abwasser, Strom und Toiletten?
+- Gib es Wasser, [[Abwasser]], Strom und Toiletten?
 - Müllentsorgung
 - Schlafsituation
 - Gibt es eine Küche vor Ort oder sollten wir eigenes Equipment und eine Feldküche mitbringen

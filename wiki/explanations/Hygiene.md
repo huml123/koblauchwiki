@@ -8,4 +8,4 @@ Als zweites, wie auch bei der Spühlstraße ist es wichtig, dass nichts direkt a
 
 *still under construcktion*
 
-![](images/soap.png)
+![](../images/soap.png)

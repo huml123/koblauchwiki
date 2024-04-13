@@ -1,12 +1,12 @@
-# Gastronorm Kunde
+# Gastronormkunde
 
 GNs (Gastronorm Behälter) sind das Rückgrat jeder größeren Küche und häufig werden Mengen nur noch in GNs angegeben. Aber manchmal ist nicht ganz klar, was ist damit eigentlich gemeint.
 
 Bei "GNs" handelt es sich um diese Edelstahlbehälter:
-![In GNs serviertes Salatbuffet](images/Salad_bar.JPG)
+![In GNs serviertes Salatbuffet](../images/Salad_bar.JPG)
 
 Auch der Fenchel liegt in einer GN:
-![Ein Fenchel in einer GN](images/fenchel_in_gn.jpg)
+![Ein Fenchel in einer GN](../images/fenchel_in_gn.jpg)
 
 ## Größen
 
@@ -22,13 +22,10 @@ Jede GN gibt es in unterschiedlichen Tiefen. Die Kapazität einer GN ist also le
    Fläche
 ```
 
-
-
 Das Bild macht das verständlicher:
-![](images/GN_sizes.png)
+![](../images/GN_sizes.png)
 
 ## Kapazitäten
-
 
 | Typ     | Grundfläche (Länge x Breite in Millimetern) | Tiefe (in Millimeter) | Kapazität in Liter | Kapazität in kg | Ungefähre Rationen 🍛 |
 |--------------|---------------------------------------|-----------------------------|--------------------|-----------------|--------------------|
