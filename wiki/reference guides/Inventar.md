@@ -1,6 +1,6 @@
 # List of equipment
 
-![](images/KF_inventar.png)
+![[KF_inventar.png]]
 
 Wir haben Equipment um 9 Milliarden Portionen zu kochen und ihr könnt es euch ausleihen. Das haben wir alles da:
 

@@ -14,4 +14,4 @@ Eine Spühlstraße besteht normalerweise aus 3 Becken, einem *"sauber"* und eine
 * Bevor Spühlwannen ausgeschüttet werden sollte geschaut werden ob noch Löffel in der Wanne sind! Es wandert immer wieder Besteck in den Abfluss.
 * Gute Musik ist bei der Spühlstraße wichtig!
 
-![](images/spuelstrasse.png)
+![[spuelstrasse.png]]

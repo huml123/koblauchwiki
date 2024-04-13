@@ -1,5 +1,4 @@
 # Gassystem
-***
 Ein Gassystem zur versorgung der Brenner besteht aus verschiedenen Komponenten und Verschraubungen. Die in deutschland gängigen Gasschläuche für endverbraucher haben meist ein **1/4" G LH** Gewinde.
 
 ### Abkürzungen im Bezug auf Gassysteme
