@@ -5,8 +5,10 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 <!--- ![](images/KF_Kelle.png) --->
 
 ### Frühstück
+
 * [[Porridge]]
 * [[Reisfrühstück|Herzhaftes Frühstück]]
+
 ### Aufstriche
 
 * [[Tomatenbutter]]
@@ -16,6 +18,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [[Schokoaufstrich]]
 * [[Aprikosencurry]]
 * [[Aufstriche von Le Sabot]]
+
 ### Hauptgerichte
 
 * [[Borschtsch]]
@@ -37,6 +40,7 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Linsen Daal]()
 * [Karotteneintopf]()
 * [Röstkürbis]()
+* [[Adis Bil Hamod]]
 
 ### Backen
 
@@ -68,4 +72,4 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 * [Brotauftriche von Le Sabot](Aufstriche von Le Sabot)
 * [Suppen von Le Sabot](https://lesabot.org/?page_id=180)
 
-Wenn du Rezepte oder Rezeptideen hast die gut auch in großen Mengen umgesetzt werden können, dann schick sie uns gerne via Mail unter knoblauch-fahne@riseup.net oder wenns sein muss auf Instagram.
+Wenn du Rezepte oder Rezeptideen hast die gut auch in großen Mengen umgesetzt werden können, dann schick sie uns gerne via Mail unter <knoblauch-fahne@riseup.net> oder wenns sein muss auf Instagram.
