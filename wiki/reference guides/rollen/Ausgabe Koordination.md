@@ -2,6 +2,7 @@ Siehe auch [[Rollen während einer Kochaktion]].
 ## Deutsch
 
 Aufgaben der Ausgabe Koordination:
+
 * [[Hygiene Einweisung]] für die Menschen die die Ausgabe machen
 * Ausgabe mit genügen Geschirr etc. bestücken
 * (Teller zählen (Für die Teilnehmer:innenschätzung)
