@@ -52,18 +52,18 @@ Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte 
     Welchen Rythmus hat ein Plenum?
     Machen wir Skillshares in der Aktion?
 
-Welche Schichten braucht es während der Aktion?
+Welche Schichten braucht es während der Aktion? Siehe dazu auch [[Rollen während einer Kochaktion]] und [[Schichtplan.pdf]].
 
     Kochen
     Schnippeln
-    Spühlen
+    Spülen
     Lager
     Kaffee Tee
     Ausgabe
     Übersicht 
     Awareness und Care
     Finanzen
-    Kontackte
+    Kontakte
     Logistik und Fahren
     Springer
 
