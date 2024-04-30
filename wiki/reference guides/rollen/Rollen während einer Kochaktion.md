@@ -19,6 +19,7 @@ Folgende Rollen sollten erfahrungsgemäß nicht während einer Aktion rotieren:
 * **Kommunikation zum Camp**: Eine feste Person die die Kommunikation zum Camp macht.
 * **Kommunikation zur Aktionlogistik:** Eine feste Person die die Kommunikation zur Aktionslogistik macht.
 * **Finanzen:** Person hat ein Überblick über die Finanzen und die Spenden und sorgt dafür, dass am Ende kein Minus entsteht.
+* **Behördenkontakt:** Ansprechperson für das Gesundheitsamt und andere Behörden. 
 
 ## Druckbare Rollenkarten und Schichtplan
 * [[Schichtplan.pdf]]
