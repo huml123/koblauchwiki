@@ -13,7 +13,7 @@
 * [How-to Fettabscheider reinigen](Abwasser.md)
 * [How to SG-Zelt aufbauen und abbauen]()
 * [How-to Spülstraße](Spülstraße.md)
-* [How-to Paella Brenner](howtos/paella-pfanne)
+* [How-to Paella Brenner](Paella%20Brenner%20How-To.md)
 * [How-to Aktion](How%20to%20Aktion.md)
 
 ### Tutorials
