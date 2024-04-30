@@ -1,6 +1,6 @@
 # Nudeln kochen für > 100 Personen
 
-<img src="../images/nudeln.png" style="max-width:300px"/>
+![[nudeln.png]]
 
 Gesalzenes Wasser in mehreren 100L Töpfen kochen.
 
