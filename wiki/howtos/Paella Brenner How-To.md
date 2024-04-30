@@ -1,14 +1,12 @@
 # Paella Brenner
 
-<!-- <img src="../images/paella-pan.png" style="max-width:300px"/> -->
-
+![[paella-pan.png]]
 ### Paella Brenner besonderheiten
 
 Der Paella Brenner bietet ein paar Besonderheiten die beachtet werden wollen. Der Brenner hat mehrere Ringe, welche seperate Gas zufuhr haben und daher seperat gezündet werden müssen. Bei den Paella Brennern ist allerdings, nicht wie bei den meisten anderen Brenner Modellen, keine termische Sicherung verbaut die verhindert, dass falls die Flamme aus geht, der gasfluss gestoppt wird. Desshalb sollte besonders darauf geachtet werden, dass die Durchflussregler zu sind wenn der Ring oder der Brenner an sich nicht verwendet wird. Daher sollte der Brenner auch nicht dadurch ausgemacht werden indem irgendwo anders als an den Reglern die Gaszufuhr unterbrochen wird wie beispielsweise also direkt an der Gasflasche.
 Der Brenner hat ein dreibeiniges Gestell. Dadurch sollte es gut möglich sein, wenn ein fester Untergrund gegebne ist, durch drehen die Pfanne Gerade aufzustellen.
 
-<!-- Bild von Brenner mit 3 Ringen, Draufsicht -->
-<img src="../images/3 ring Brenner top.png" style="max-width: 300px"/>
+![[3 ring Brenner top.png]]
 
 ### Anmachen des Brenners
 
