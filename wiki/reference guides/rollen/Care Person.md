@@ -1,4 +1,6 @@
 *aka. Care-Bär*
+
+Siehe auch [[Rollen während einer Kochaktion]].
 ## Deutsch
 Deine Aufgabe ist es während deiner Schicht dich darum zu kümmern, dass es den Menschen während ihrer Schicht gut geht. Du hast dich damit vertraut gemacht wie die Awarnessstrukturen im Camp aussehen und wie du Kontakt zu diesen aufnehmen kannst. 
 

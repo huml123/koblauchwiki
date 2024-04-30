@@ -1,3 +1,4 @@
+Siehe auch [[Rollen während einer Kochaktion]].
 ## Deutsch
 Die kochenden Menschen organisieren sich so, dass es für sie passt und verteilen Unteraufgabenbereiche (z.B. 1P. für Nudeln, 1P. Soße; 1P. Salat etc.). 
 

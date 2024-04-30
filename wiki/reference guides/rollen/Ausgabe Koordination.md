@@ -1,3 +1,6 @@
+Siehe auch [[Rollen während einer Kochaktion]].
+## Deutsch
+
 Aufgaben der Ausgabe Koordination:
 - [[Hygiene Einweisung]] für die Menschen die die Ausgabe machen
 - Ausgabe mit genügen Geschirr etc. bestücken
@@ -8,4 +11,8 @@ Aufgaben der Ausgabe Koordination:
 - Spendenempfehlung kommunizieren und auf Spenden aufmerksam machen.
 - Wo finden Menschen das Allergieessen?
 
+## English
+todo
+
+## PDF
 [[Ausgabe-Koordniantion.pdf]]

@@ -1,4 +1,7 @@
+*EN: Overview person*
 
+Siehe auch [[Rollen während einer Kochaktion]].
+## Deutsch
 - Wie es bei allen Arbeitsbereichen aussieht.
 - Was gemacht werden muss.
 - Wer Ansprechperson für unterschiedliche Arbeitsbereiche ist.
@@ -8,7 +11,7 @@
 - Funke
     
 
-## EN: Overview person
+## English
 
 - What it looks like for all work areas.  
 - What needs to be done.  
