@@ -14,16 +14,11 @@ Für die Verteilung der rotierenden Rollen hilft der [[Schichtplan.pdf|Schichtpl
 
 ## Dauerhafte Rollen
 Folgende Rollen sollten erfahrungsgemäß nicht während einer Aktion rotieren:
-### Essensbesteller:innen-Team
-Team wird delegiert, um Lebensmittel zu besorgen. In Kontakt mit der Finanzperson.  
-Absprache mit der Küfa_Crew wichtig.
 
-### Kommunikation zum Camp
-Eine feste Person die die Kommunikation zum Camp macht.
-### Kommunikation zur Aktionlogistik
-Eine feste Person die die Kommunikation zur Aktionslogistik macht.
-### Finanzen
-Person hat ein Überblick über die Finanzen und die Spenden und sorgt dafür, dass am Ende kein Minus entsteht.
+* **Essensbesteller:innen-Team**: Team wird delegiert, um Lebensmittel zu besorgen. In Kontakt mit der Finanzperson. Absprache mit der Küfa_Crew wichtig.
+* **Kommunikation zum Camp**: Eine feste Person die die Kommunikation zum Camp macht.
+* **Kommunikation zur Aktionlogistik:** Eine feste Person die die Kommunikation zur Aktionslogistik macht.
+* **Finanzen:** Person hat ein Überblick über die Finanzen und die Spenden und sorgt dafür, dass am Ende kein Minus entsteht.
 
 ## Druckbare Rollenkarten und Schichtplan
 * [[Schichtplan.pdf]]
