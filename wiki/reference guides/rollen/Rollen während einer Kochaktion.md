@@ -24,3 +24,12 @@ Eine feste Person die die Kommunikation zum Camp macht.
 Eine feste Person die die Kommunikation zur Aktionslogistik macht.
 ### Finanzen
 Person hat ein Überblick über die Finanzen und die Spenden und sorgt dafür, dass am Ende kein Minus entsteht.
+
+## Druckbare Rollenkarten und Schichtplan
+[[Schichtplan.pdf]]
+[[Ausgabe-Koordniantion.pdf]]
+[[CarePerson.pdf]]
+[[CleaningPerson.pdf]]
+[[cookingperson.pdf]]
+[[cuttingkoordniantion.pdf]]
+[[OverviewPerson.pdf]]
