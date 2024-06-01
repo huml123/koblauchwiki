@@ -4,6 +4,11 @@
 
 Größere Mengen Kaffee kannst du entweder mit einem Jutebeutel oder mit einer Rundfilterkaffeemaschine kochen. Pro Liter fertigen Kaffee brauchst du etwa 30g gemahlenes Pulver.
 
+
+## Die clevere Coldbrewmethode
+Diese Methe spart eine Menge Gas sowie auch die Nerven.
+
+1
 ## Die Jutebeutelmethode
 
 Zum Aufbrühen einen sauberen Jutebeutel in einen Behälter (am besten ein Thermobehälter mit Zapfhahn) einhängen,  Kaffeepulver in den Beutel geben und kochendes Wasser durch den noch offenen Beutel gießen.
