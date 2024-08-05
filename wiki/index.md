@@ -1,19 +1,27 @@
 <img src="./images/KF_Welcome.png" alt="Welcome" width="200"/>
 
-
-
 ### How-to Guides
 
 *How-to guides are **directions** that take the reader through the steps required to solve a real-world problem. How-to guides are **goal-oriented**.*
+
+#### Kochen
 
 * [Nudeln kochen für >100 Personen](howtos/nudeln)
 * [Reis kochen für > 100 Personen](howtos/reis)
 * [How-to make Porridge](Porridge.md)
 * [How-to make coffee](howtos/coffee)
+* [How-to Paella Brenner](Paella%20Brenner%20How-To.md)
+
+#### Infrastruktur
+
 * [How-to Fettabscheider reinigen](Abwasser.md)
 * [How to SG-Zelt aufbauen und abbauen]()
 * [How-to Spülstraße](Spülstraße.md)
-* [How-to Paella Brenner](Paella%20Brenner%20How-To.md)
+* How-to Gasanlage prüfen
+* How-to Geka Kupplung
+
+#### Organisatorisch
+
 * [How-to Aktion](How%20to%20Aktion.md)
 
 ### Tutorials
@@ -49,7 +57,7 @@
 * [index](rezepte/index.md).
 
 ***
+
 ### Participation in the wiki
 
-*If you would like to participate in this wiki, please write ideas, contributions, and requests for changes to **knoblauch-fahne@riseup.net**.*
-
+*If you would like to participate in this wiki, please write ideas, contributions, and requests for changes to **<knoblauch-fahne@riseup.net>**.*
