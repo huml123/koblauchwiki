@@ -6,8 +6,9 @@ Alle Rezepte und Rezeptideen im Knoblauchfahnen Wiki sind vegan. Hier Sammeln si
 
 ### Frühstück
 
-* [[Porridge]]
-* [[Reisfrühstück|Herzhaftes Frühstück]]
+* [[Overnight Oats]]
+* [[rezepte/Porridge]]
+* [[Reisfrühstück|Herzhaftes Reisfrühstück]]
 
 ### Aufstriche
 

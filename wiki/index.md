@@ -8,7 +8,7 @@
 
 * [Nudeln kochen für >100 Personen](howtos/nudeln)
 * [Reis kochen für > 100 Personen](howtos/reis)
-* [How-to make Porridge](Porridge.md)
+* [How-to make Overnight Oats](Overnight%20Oats.md)
 * [How-to make coffee](howtos/coffee)
 * [How-to Paella Brenner](Paella%20Brenner%20How-To.md)
 
