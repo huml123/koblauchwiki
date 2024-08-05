@@ -1,7 +1,7 @@
-# Warmwasserspeicher LEOV AD 50L
-Dieser Artikel bezieht sich auf unseren 50L Warmwasserspeicher (aka. Boiler), den LEOV AD 50L:
+# 50L Warmwasserspeicher
+Dieser Artikel bezieht sich auf unseren 50L Warmwasserspeicher (aka. Boiler), den `LEOV AD 50L`:
 
-![](resources/50L-boiler.jpg)
+![Foto vom Warmwasserspeicher](50L-boiler.jpg)
 
 ## ⚠️ ☠️ **Wichtige** Vorbemerkung
 Eine falsche Handhabung ist gefährlich:
