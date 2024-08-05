@@ -19,7 +19,7 @@ todo
 ## Temperatur einstellen
 Das Regulierungsthermostat sollte in der Regel nicht verstellt werden und wenn dann nur von Personen, die wissen, was sie tun. Es befindet sich unter der Kunststoffabdeckung:
 
-![Foto vom Regulierungsthermostat](resources/50L-boiler-regulierungsthermostat.png)
+![Foto vom Regulierungsthermostat](50L-boiler-regulierungsthermostat.png)
 
 ## Technische Daten
 ```
