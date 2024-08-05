@@ -1,12 +1,12 @@
-# Die Aktion - ein Ablauf
+# Die Aktion: Ein Ablauf
 
-Die "Aktion" ist mit der Kerninhalt der Mobilen KüFa. Dabei handelt es sich häufig um eine Veranstaltung, die nicht Monate im voraus bekannt und an einem beliebigen Ort sein kann.
+Die "Aktion" ist mit der Kerninhalt der mobilen KüFa. Dabei handelt es sich häufig um eine Veranstaltung, die nicht Monate im Voraus bekannt und an einem beliebigen Ort sein kann.
 
-Aber es gibt dennoch Gemeinsamkeiten und Aufgaben die immer gleich oder zumindest ähnlich sind. Daher gibt es hier Checklisten, die das vorbereiten erleichtern sollen.
+Aber es gibt dennoch Gemeinsamkeiten und Aufgaben die immer gleich oder zumindest ähnlich sind. Daher gibt es hier Checklisten und Leitfäden, die das Vorbereiten erleichtern sollen.
 
 ## Die Anfrage
 
-Werden wir für eine Aktion angefragt, sollte zunächst geklärt werden, was wir brauchen um die Anfrage anzunehmen oder ab zu lehnen.
+Werden wir für eine Aktion angefragt, sollte zunächst geklärt werden, was wir brauchen um die Anfrage anzunehmen oder abzulehnen.
 
 Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfrage annehmen:
 
@@ -24,6 +24,9 @@ Folgende Infos sollten wir einholen, um entscheiden zu können, ob wir die Anfra
 Wenn wir das wissen sollten wir folgendes klären:
 
 - Finden sich genug Menschen für alle Phasen und Bereiche des Projekts (also nicht nur in der Aktion, sondern auch Kommunikation mit der Aktionsorga, Vorbereitung, Bestellung, Aufbau, Abbau, Nachbereitung)
+- 
+## Gruppenfindung
+Als nächstes die Kochaktion über den Infochannel ankündigen, sodass sich noch weitere Personen aus dem "Dunstkreis" an der Aktionsvorbereitung beteiligen können!
 
 ## Die Vorbereitung
 
@@ -31,21 +34,24 @@ Bevor die Aktion dann richtig los geht macht es Sinn sich über folgende Punkte 
 
 - Calculation (siehe [[Mengenkalkulation]])
 - Was und wie viel muss vorab bestellt werden?
-- Gibt es Einkaufsmöglichkeiten vor Ort?
-- Logistics / Transport
+- Welches Material brauchen wir? Müssen wir noch Material anschaffen oder ausleihen?
+- Haben wir alle Informationen und Materialien für den [[Küchenaufbau]]?
+- Welche Einkaufsmöglichkeiten gibt es vor Ort?
+- Logistik: Wie kommt das Material an den Ort?
 - Communication & Crewcare
 - Coordinations
 
-### Die Bestellung
-
-    Was muss wann besorgt werden?
-
-### Der Aufbau
+## Besorgungen
+* Lebensmittel
+* Gas
+* Erste-Hilfe-Equipment
+## Der Aufbau
 
     Wer ist wann da?
     Plan machen
     Koordination festlegen
 
+Siehe auch [[Küchenaufbau]].
 ## In der Aktion
 
     Wann gibt es ein Initiales Plenum?
